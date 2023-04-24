@@ -6,6 +6,6 @@ public class Main {
                 System.out.println("Cor do tomate é " + tomate1.getCor());
                 System.out.println("Preoço do tomate é " + tomate1.getPreco());
                 System.out.println("O tomate tem " + tomate1.getQntSementes() + "sementes");
-                System.out.println(tomate2);
+                System.out.println(tomate2.getPreco());
             }
         }
